@@ -1,0 +1,711 @@
+[
+    {
+        "name": "Banff Springs Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Banff_Springs_Hotel",
+        "city": "Banff",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Banff_Spring_Hotel_Alberta_Kim_Payant_02.jpg/250px-Banff_Spring_Hotel_Alberta_Kim_Payant_02.jpg",
+        "coordinates": "51.16444; 115.56194",
+        "website": "https://www.banff-springs-hotel.com/"
+    },
+    {
+        "name": "Chateau Lacombe Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Chateau_Lacombe_Hotel",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Chateau_Lacombe_Logo.jpg",
+        "coordinates": "53.5390889; 113.4944139",
+        "website": "http://www.chateaulacombe.com"
+    },
+    {
+        "name": "Chateau Lake Louise",
+        "wikiLink": "https://en.wikipedia.org/wiki/Chateau_Lake_Louise",
+        "city": "Lake Louise",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Late_in_the_Evening_at_the_Chateau_%2850005960142%29.jpg/250px-Late_in_the_Evening_at_the_Chateau_%2850005960142%29.jpg",
+        "coordinates": "51.41778; 116.21722",
+        "website": "https://www.chateau-lake-louise.com/"
+    },
+    {
+        "name": "Coast Edmonton House",
+        "wikiLink": "https://en.wikipedia.org/wiki/Coast_Edmonton_House",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Edmonton_House.JPG/200px-Edmonton_House.JPG",
+        "coordinates": "53.53833; 113.49500"
+    },
+    {
+        "name": "Fairmont Palliser Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Fairmont_Palliser_Hotel",
+        "city": "Calgary",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fairmont_Palliser_Logo.svg/250px-Fairmont_Palliser_Logo.svg.png"
+    },
+    {
+        "name": "Hotel Macdonald",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Macdonald",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hotel-Macdonald-Edmonton-Alberta-1A.jpg/250px-Hotel-Macdonald-Edmonton-Alberta-1A.jpg",
+        "coordinates": "53.54028; 113.48917",
+        "website": "https://www.fairmont.com/macdonald-edmonton/"
+    },
+    {
+        "name": "Jasper Park Lodge",
+        "wikiLink": "https://en.wikipedia.org/wiki/Jasper_Park_Lodge",
+        "city": "Jasper",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jasper_Park_Lodge.jpg/250px-Jasper_Park_Lodge.jpg",
+        "coordinates": "52.88611; 118.05694",
+        "website": "http://fairmont.com/jasper"
+    },
+    {
+        "name": "Prince of Wales Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Prince_of_Wales_Hotel",
+        "city": "Waterton Lakes National Park",
+        "province": "Alberta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Prince_of_Wales_Hotel.jpg/250px-The_Prince_of_Wales_Hotel.jpg",
+        "coordinates": "49.05889; 113.90361",
+        "website": "https://www.glacierparkcollection.com/lodging/prince-of-wales-hotel/"
+    },
+    {
+        "name": "The Rimrock Resort Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Rimrock_Resort_Hotel",
+        "city": "Banff",
+        "province": "Alberta"
+    },
+    {
+        "name": "Empire Landmark Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Empire_Landmark_Hotel",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Empire_Hotel_Landmark.jpg/280px-Empire_Hotel_Landmark.jpg",
+        "coordinates": "49.28806; 123.13083"
+    },
+    {
+        "name": "The Empress",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Empress_(hotel)",
+        "city": "Victoria",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fairmont_Empress%2C_Victoria%2C_British_Columbia%2C_Canada_08.jpg/250px-Fairmont_Empress%2C_Victoria%2C_British_Columbia%2C_Canada_08.jpg",
+        "coordinates": "48.42185; 123.36797",
+        "website": "https://www.fairmont.com/empress-victoria/"
+    },
+    {
+        "name": "Fairmont Pacific Rim",
+        "wikiLink": "https://en.wikipedia.org/wiki/Fairmont_Pacific_Rim",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fairmont_Pacific_Rim_2015.jpg/250px-Fairmont_Pacific_Rim_2015.jpg",
+        "coordinates": "49.28806; 123.11639"
+    },
+    {
+        "name": "Hotel Europe",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Europe_(Vancouver)",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hoteleurope32.jpg/250px-Hoteleurope32.jpg",
+        "coordinates": "49.2833972; 123.1036472"
+    },
+    {
+        "name": "Hotel Georgia",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Georgia_(Vancouver)",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rosewood_Hotel_Georgia_2018.jpg/250px-Rosewood_Hotel_Georgia_2018.jpg",
+        "coordinates": "49.2834389; 123.1189111",
+        "website": "https://www.rosewoodhotels.com/en/hotel-georgia-vancouver"
+    },
+    {
+        "name": "Hotel Vancouver",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Vancouver",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hotel_vanc_2007.jpg/250px-Hotel_vanc_2007.jpg",
+        "coordinates": "49.283839; 123.120959",
+        "website": "https://www.fairmont.com/hotel-vancouver/"
+    },
+    {
+        "name": "Hyatt Regency Vancouver",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hyatt_Regency_Vancouver",
+        "city": "The Listel Hotel",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hyatt_Regency_Vancouver_2015.jpg/280px-Hyatt_Regency_Vancouver_2015.jpg",
+        "coordinates": "49.28500; 123.12056",
+        "website": "https://vancouver.hyatt.com/"
+    },
+    {
+        "name": "The Listel Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Listel_Hotel",
+        "city": "Vancouver",
+        "province": "British Columbia"
+    },
+    {
+        "name": "Living Shangri-La",
+        "wikiLink": "https://en.wikipedia.org/wiki/Living_Shangri-La",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Living_Shangri-La_from_One_Wall_Centre.jpg/300px-Living_Shangri-La_from_One_Wall_Centre.jpg",
+        "coordinates": "49.28583; 123.12361",
+        "website": "https://www.heidelbergcement.com/en/living-shangri-la"
+    },
+    {
+        "name": "The Melville",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Melville",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Melville_residential_tower.jpg/200px-Melville_residential_tower.jpg",
+        "coordinates": "49.2879; 123.1236"
+    },
+    {
+        "name": "Sheraton Wall Centre",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sheraton_Wall_Centre",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/One_Wall_Centre.jpg/250px-One_Wall_Centre.jpg",
+        "coordinates": "49.28046; 123.1270",
+        "website": "https://www.onewallcentre.ca/"
+    },
+    {
+        "name": "Sylvia Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sylvia_Hotel",
+        "city": "Vancouver",
+        "province": "British Columbia"
+    },
+    {
+        "name": "Fort Garry Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Fort_Garry_Hotel",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-0519-FortGarryHotel.jpg/250px-2009-0519-FortGarryHotel.jpg",
+        "coordinates": "49.88778; 97.13667",
+        "website": "http://fortgarryhotel.com"
+    },
+    {
+        "name": "The Algonquin",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Algonquin",
+        "city": "St. Andrews",
+        "province": "New Brunswick",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Algonquin_in_St_Andrews.jpg/250px-The_Algonquin_in_St_Andrews.jpg",
+        "coordinates": "45.08028; 67.05472",
+        "website": "https://www.algonquinresort.com/"
+    },
+    {
+        "name": "Hotel Newfoundland",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Newfoundland",
+        "city": "St. John's",
+        "province": "Newfoundland and Labrador",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Newfoundlandhotel.jpg/250px-Newfoundlandhotel.jpg",
+        "coordinates": "47.5713611; 52.7004833",
+        "website": "https://www.marriott.com/hotels/travel/yytsi-sheraton-hotel-newfoundland"
+    },
+    {
+        "name": "Explorer Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Explorer_Hotel",
+        "city": "Yellowknife",
+        "province": "Northwest Territories",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Explorer_Hotel_logo.png",
+        "coordinates": "62.45738; 114.37240",
+        "website": "http://www.explorerhotel.ca"
+    },
+    {
+        "name": "The Gold Range",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Gold_Range",
+        "city": "edit",
+        "province": "Northwest Territories"
+    },
+    {
+        "name": "Digby Pines Resort",
+        "wikiLink": "https://en.wikipedia.org/wiki/Digby_Pines_Resort",
+        "city": "Digby",
+        "province": "Nova Scotia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Digby_Pines_2010.JPG/250px-Digby_Pines_2010.JPG",
+        "coordinates": "44.634278; 65.760611"
+    },
+    {
+        "name": "Lord Nelson Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Lord_Nelson_Hotel",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lord_Nelson_Hotel.JPG/250px-Lord_Nelson_Hotel.JPG",
+        "coordinates": "44.6427000; 63.5796000",
+        "website": "https://lordnelsonhotel.ca/"
+    },
+    {
+        "name": "The Westin Nova Scotian",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Westin_Nova_Scotian",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Westin_Nova_Scotian_hotel_in_Halifax%2C_NS.jpg/250px-The_Westin_Nova_Scotian_hotel_in_Halifax%2C_NS.jpg",
+        "website": "http://thewestinnovascotian.com/"
+    },
+    {
+        "name": "Caesars Windsor",
+        "wikiLink": "https://en.wikipedia.org/wiki/Caesars_Windsor",
+        "city": "Windsor",
+        "province": "Ontario"
+    },
+    {
+        "name": "Ch\u00e2teau Laurier",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Laurier",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fairmont_Chateau_Laurier_%2836191173260%29_%28cropped%29.jpg/250px-Fairmont_Chateau_Laurier_%2836191173260%29_%28cropped%29.jpg",
+        "coordinates": "45.4255667; 75.6951083",
+        "website": "https://www.fairmont.com/laurier-ottawa/"
+    },
+    {
+        "name": "Chelsea Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Chelsea_Hotel,_Toronto",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Delta_Chelsea.jpg/250px-Delta_Chelsea.jpg",
+        "coordinates": "43.6585; 79.38315",
+        "website": "http://chelseatoronto.com"
+    },
+    {
+        "name": "Drake Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Drake_Hotel_(Toronto)",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Drake_Hotel.jpg/250px-Drake_Hotel.jpg",
+        "coordinates": "43.643197; 79.424661"
+    },
+    {
+        "name": "Duke of York Inn",
+        "wikiLink": "https://en.wikipedia.org/wiki/Duke_of_York_Inn,_Toronto",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Fairmont Royal York",
+        "wikiLink": "https://en.wikipedia.org/wiki/Fairmont_Royal_York",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Toronto_-_ON_-_Royal_York_Hotel.jpg/250px-Toronto_-_ON_-_Royal_York_Hotel.jpg",
+        "coordinates": "43.646133; 79.381561",
+        "website": "http://www.fairmont.com/royalyork"
+    },
+    {
+        "name": "Ford Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ford_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Four Seasons Hotel Toronto",
+        "wikiLink": "https://en.wikipedia.org/wiki/Four_Seasons_Hotel_Toronto",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Four_Seasons_under_construction_February_2012.jpg/250px-Four_Seasons_under_construction_February_2012.jpg",
+        "coordinates": "43.67194; 79.38889"
+    },
+    {
+        "name": "Gladstone Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Gladstone_Hotel_(Toronto)",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gladstone_Hotel.jpg/250px-Gladstone_Hotel.jpg",
+        "coordinates": "43.642683; 79.427",
+        "website": "http://gladstonehouse.ca"
+    },
+    {
+        "name": "Guild Inn",
+        "wikiLink": "https://en.wikipedia.org/wiki/Guild_Inn",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guild_Inn_1956.jpg/250px-Guild_Inn_1956.jpg"
+    },
+    {
+        "name": "Hotel Waverly",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Waverly",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Inn on the Park",
+        "wikiLink": "https://en.wikipedia.org/wiki/Inn_on_the_Park",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "InterContinental Toronto Centre",
+        "wikiLink": "https://en.wikipedia.org/wiki/InterContinental_Toronto_Centre",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MetroTorontoConventionCentre7.JPG/250px-MetroTorontoConventionCentre7.JPG",
+        "coordinates": "43.64417; 79.38667",
+        "website": "https://www.torontocentre.intercontinental.com/"
+    },
+    {
+        "name": "John Finch's Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/John_Finch%27s_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "King Edward Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/King_Edward_Hotel_(Toronto)",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/OMNI_King_Edward_logo.jpg/250px-OMNI_King_Edward_logo.jpg",
+        "coordinates": "43.6494; 79.3766",
+        "website": "https://www.omnihotels.com/hotels/toronto-king-edward"
+    },
+    {
+        "name": "Lord Elgin Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Lord_Elgin_Hotel",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lord-elgin-hotel-night.jpg/250px-Lord-elgin-hotel-night.jpg",
+        "coordinates": "45.42133; 75.69371"
+    },
+    {
+        "name": "Lord Simcoe Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Lord_Simcoe_Hotel",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lord_Simcoe_Hotel%2C_north-east_corner%2C_King_Street_and_University_Avenue.jpg/250px-Lord_Simcoe_Hotel%2C_north-east_corner%2C_King_Street_and_University_Avenue.jpg"
+    },
+    {
+        "name": "Marriott Niagara Falls Hotel Fallsview & Spa",
+        "wikiLink": "https://en.wikipedia.org/wiki/Marriott_Niagara_Falls_Hotel_Fallsview_%26_Spa",
+        "city": "Niagara Falls",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Niagarafallsskyline_04.07.2012_14-34-30.jpg/250px-Niagarafallsskyline_04.07.2012_14-34-30.jpg"
+    },
+    {
+        "name": "Marriott on the Falls Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Marriott_on_the_Falls_Hotel",
+        "city": "Niagara Falls",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Niagarafallsskyline_04.07.2012_14-34-30.jpg/250px-Niagarafallsskyline_04.07.2012_14-34-30.jpg"
+    },
+    {
+        "name": "Miller Tavern",
+        "wikiLink": "https://en.wikipedia.org/wiki/Miller_Tavern",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "New Broadview House Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/New_Broadview_House_Hotel",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Broadview_Hotel_Toronto_2017.jpg/250px-Broadview_Hotel_Toronto_2017.jpg"
+    },
+    {
+        "name": "New Edwin Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/New_Edwin_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Niagara Fallsview Casino Resort",
+        "wikiLink": "https://en.wikipedia.org/wiki/Niagara_Fallsview_Casino_Resort",
+        "city": "Niagara Falls",
+        "province": "Ontario"
+    },
+    {
+        "name": "Old Mill Inn & Spa",
+        "wikiLink": "https://en.wikipedia.org/wiki/Old_Mill_Inn_%26_Spa",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Old_Mill_Inn.JPG/250px-Old_Mill_Inn.JPG",
+        "coordinates": "43.65083; 79.49333"
+    },
+    {
+        "name": "Ottawa Marriott Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ottawa_Marriott_Hotel",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ottawa_Marriot_2.JPG/250px-Ottawa_Marriot_2.JPG",
+        "coordinates": "45.41972; 75.70341",
+        "website": "https://www.marriott.com/en-us/hotels/yowmc-ottawa-marriott-hotel/overview/"
+    },
+    {
+        "name": "Park Hyatt Toronto",
+        "wikiLink": "https://en.wikipedia.org/wiki/Park_Hyatt_Toronto",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Park_Plaza_Hotel.JPG/250px-Park_Plaza_Hotel.JPG",
+        "coordinates": "43.6689583; 79.394639",
+        "website": "https://www.hyatt.com/en-US/hotel/canada/park-hyatt-toronto/torph"
+    },
+    {
+        "name": "Prince Arthur Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Prince_Arthur_Hotel",
+        "city": "Thunder Bay",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Prince_Arthur_Hotel_and_Suites_Thunder_Bay.jpg/250px-Prince_Arthur_Hotel_and_Suites_Thunder_Bay.jpg",
+        "coordinates": "48.43516; 89.2187"
+    },
+    {
+        "name": "Radisson Toronto East Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Radisson_Toronto_East_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Regal Constellation Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Regal_Constellation_Hotel",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Regal-constellation-geoffbarill.jpg/250px-Regal-constellation-geoffbarill.jpg"
+    },
+    {
+        "name": "Rossin House Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Rossin_House_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Russell House",
+        "wikiLink": "https://en.wikipedia.org/wiki/Russell_House_(Ottawa)",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Russell_House_ca1893.jpg/250px-Russell_House_ca1893.jpg",
+        "coordinates": "45.4235; 75.6953"
+    },
+    {
+        "name": "Sheraton Centre Toronto Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sheraton_Centre_Toronto_Hotel",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sheraton_Centre_Toronto_Hotel_2023.jpg/250px-Sheraton_Centre_Toronto_Hotel_2023.jpg",
+        "coordinates": "43.65111; 79.38417"
+    },
+    {
+        "name": "Sheraton on the Falls",
+        "wikiLink": "https://en.wikipedia.org/wiki/Sheraton_on_the_Falls",
+        "city": "Niagara Falls",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maid_of_the_mist_on_board_04.07.2012_16-09-57.jpg/250px-Maid_of_the_mist_on_board_04.07.2012_16-09-57.jpg",
+        "coordinates": "43.0907; 79.0725"
+    },
+    {
+        "name": "Spadina Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Spadina_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Union Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Union_Hotel_(Toronto)",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https:https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Union_Hotel_%28Toronto%29&revid=1276648789&groups=_77316b0051bfc5748ac0bc10541475dfdeb25ce3",
+        "coordinates": "43.6463; 79.3831"
+    },
+    {
+        "name": "Westin Harbour Castle Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Westin_Harbour_Castle_Hotel",
+        "city": "Toronto",
+        "province": "Ontario",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WestinHarbourCastleHotel.jpg/250px-WestinHarbourCastleHotel.jpg",
+        "coordinates": "43.640641; 79.375716",
+        "website": "https://www.marriott.com/hotels/travel/yyzwi-the-westin-harbour-castle-toronto/"
+    },
+    {
+        "name": "Windsor Arms Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Windsor_Arms_Hotel",
+        "city": "Toronto",
+        "province": "Ontario"
+    },
+    {
+        "name": "Dalvay-by-the-Sea",
+        "wikiLink": "https://en.wikipedia.org/wiki/Dalvay-by-the-Sea",
+        "city": "Prince Edward Island National Park",
+        "province": "Prince Edward Island"
+    },
+    {
+        "name": "Hotel Charlottetown",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Charlottetown",
+        "city": "Charlottetown",
+        "province": "Prince Edward Island",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rodd_Charlottetown_2012.jpg/250px-Rodd_Charlottetown_2012.jpg",
+        "coordinates": "46.23472; 63.13083",
+        "website": "http://www.roddvacations.com/rodd-charlottetown"
+    },
+    {
+        "name": "Auberge Le Saint-Gabriel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Auberge_Le_Saint-Gabriel",
+        "city": "Montreal",
+        "province": "Quebec"
+    },
+    {
+        "name": "Chateau Aeroport-Mirabel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Chateau_Aeroport-Mirabel",
+        "city": "Mirabel",
+        "province": "Quebec"
+    },
+    {
+        "name": "Ch\u00e2teau Champlain",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Champlain",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Montreal_Downtown_Marriott_over_trees.jpg/250px-Montreal_Downtown_Marriott_over_trees.jpg",
+        "coordinates": "45.4975; 73.5672",
+        "website": "https://www.marriott.com/en-us/hotels/yulcc-montreal-marriott-chateau-champlain/overview/"
+    },
+    {
+        "name": "Ch\u00e2teau Frontenac",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac",
+        "city": "Quebec City",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/250px-Ch%C3%A2teau_Frontenac_02.jpg",
+        "coordinates": "46.81194; 71.20500",
+        "website": "https://www.fairmont.com/frontenac-quebec/"
+    },
+    {
+        "name": "Ch\u00e2teau Montebello",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Montebello",
+        "city": "Montebello",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Montebello_Castle_28Sep2014.JPG/250px-Montebello_Castle_28Sep2014.JPG",
+        "coordinates": "45.645; 74.95"
+    },
+    {
+        "name": "Clarendon Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Clarendon_Hotel",
+        "city": "Quebec City",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ClarendonHotel.jpg/250px-ClarendonHotel.jpg",
+        "coordinates": "46.813; 71.2076",
+        "website": "https://hotelclarendon.com/"
+    },
+    {
+        "name": "Hovey Manor",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hovey_Manor",
+        "city": "North Hatley",
+        "province": "Quebec"
+    },
+    {
+        "name": "Ice Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ice_Hotel_(Quebec)",
+        "city": "Quebec City",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H%C3%B4tel_de_Glace_%2812665786284%29.jpg/250px-H%C3%B4tel_de_Glace_%2812665786284%29.jpg",
+        "coordinates": "46.943966; 71.475037"
+    },
+    {
+        "name": "Laurentian Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Laurentian_Hotel",
+        "city": "Montreal",
+        "province": "Quebec"
+    },
+    {
+        "name": "Le Centre Sheraton Montreal Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Le_Centre_Sheraton_Montreal_Hotel",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CentreSheraton.JPG/250px-CentreSheraton.JPG",
+        "coordinates": "45.49778; 73.57139",
+        "website": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/"
+    },
+    {
+        "name": "Les Cours Mont-Royal",
+        "wikiLink": "https://en.wikipedia.org/wiki/Les_Cours_Mont-Royal",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cours_Mont-Royal_29.JPG/250px-Cours_Mont-Royal_29.JPG",
+        "coordinates": "45.50083; 73.57361",
+        "website": "http://www.lcmr.ca"
+    },
+    {
+        "name": "Manoir Richelieu",
+        "wikiLink": "https://en.wikipedia.org/wiki/Manoir_Richelieu",
+        "city": "La Malbaie",
+        "province": "Quebec"
+    },
+    {
+        "name": "Ottawa Hotel, Montreal",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ottawa_Hotel,_Montreal",
+        "city": "Montreal",
+        "province": "Quebec"
+    },
+    {
+        "name": "Place Viger",
+        "wikiLink": "https://en.wikipedia.org/wiki/Place_Viger",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gare_Viger_16.jpg/250px-Gare_Viger_16.jpg",
+        "coordinates": "45.512478; 73.553244"
+    },
+    {
+        "name": "Queen Elizabeth Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hotel",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Montreal%2C_August_2017_-_097.jpg/250px-Montreal%2C_August_2017_-_097.jpg",
+        "coordinates": "45.5006; 73.5678",
+        "website": "https://www.fairmont.com/queen-elizabeth-montreal/"
+    },
+    {
+        "name": "Ritz-Carlton Montreal",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ritz-Carlton_Montreal",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Ritz-Carlton_Montr%C3%A9al_Logo.svg/250px-Ritz-Carlton_Montr%C3%A9al_Logo.svg.png",
+        "coordinates": "45.50000; 73.578000",
+        "website": "http://www.ritzmontreal.com/"
+    },
+    {
+        "name": "Windsor Hotel",
+        "wikiLink": "https://en.wikipedia.org/wiki/Windsor_Hotel_(Montreal)",
+        "city": "Montreal",
+        "province": "Quebec",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dominion_Square_and_Windsor_Hotel%2C_Montreal%2C_QC%2C_about_1890.jpg/250px-Dominion_Square_and_Windsor_Hotel%2C_Montreal%2C_QC%2C_about_1890.jpg"
+    },
+    {
+        "name": "Chateau Qu'Appelle",
+        "wikiLink": "https://en.wikipedia.org/wiki/Chateau_Qu%27Appelle",
+        "city": "Regina",
+        "province": "Saskatchewan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Chateau_Qu%27Appelle.jpg/250px-Chateau_Qu%27Appelle.jpg",
+        "coordinates": "50.4399333; 104.6169667"
+    },
+    {
+        "name": "Delta Bessborough",
+        "wikiLink": "https://en.wikipedia.org/wiki/Delta_Bessborough",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Saskatoon-_bessborough.jpg/250px-Saskatoon-_bessborough.jpg",
+        "coordinates": "52.12639; 106.65917",
+        "website": "https://www.marriott.com/hotels/travel/yxedb-delta-hotels-bessborough/"
+    },
+    {
+        "name": "Hotel Saskatchewan",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Saskatchewan",
+        "city": "Regina",
+        "province": "Saskatchewan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hotel-Saskatchewan.jpg/250px-Hotel-Saskatchewan.jpg",
+        "coordinates": "50.44667; 104.61139"
+    },
+    {
+        "name": "Hotel Senator",
+        "wikiLink": "https://en.wikipedia.org/wiki/Hotel_Senator_(Saskatoon)",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Senator_Hotel.jpg/250px-Senator_Hotel.jpg",
+        "coordinates": "52.12667; 106.66333",
+        "website": "http://www.hotelsenator.ca/"
+    },
+    {
+        "name": "Radisson Hotel Saskatoon",
+        "wikiLink": "https://en.wikipedia.org/wiki/Radisson_Hotel_Saskatoon",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Saskatoon_Skyscrapers.jpg/250px-Saskatoon_Skyscrapers.jpg",
+        "coordinates": "52.1247; 106.6616"
+    },
+    {
+        "name": "Temple Gardens Mineral Spa Resort",
+        "wikiLink": "https://en.wikipedia.org/wiki/Temple_Gardens_Mineral_Spa_Resort",
+        "city": "Moose Jaw",
+        "province": "Saskatchewan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Temple_Gardens_Hotel_%26_Spa_logo.png/250px-Temple_Gardens_Hotel_%26_Spa_logo.png",
+        "coordinates": "50.3928; 105.5335",
+        "website": "https://www.templegardenshotel.com/"
+    }
+]
