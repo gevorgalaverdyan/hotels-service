@@ -1,0 +1,16 @@
+services:
+  mongodb:
+    image: mongo:6-jammy
+    ports:
+      - '${MONGO_PORT}:${MONGO_PORT}'
+    volumes:
+      - dbdata6:/data/db
+    environment:
+      - MONGO_INITDB_DATABASE=${MONGO_INITDB_DATABASE}
+      - MONGO_INITDB_ROOT_USERNAME=${MONGO_INITDB_ROOT_USERNAME}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGO_INITDB_ROOT_PASSWORD}
+    env_file:
+      - .env
+
+volumes:
+  dbdata6:
