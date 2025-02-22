@@ -11,7 +11,7 @@ import (
 )
 
 func Connect() *mongo.Collection {
-	// Find .evn
+	// Find .env
 	err := godotenv.Load(".env")
 	if err != nil {
 		log.Fatal("Error loading .env", err)
