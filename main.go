@@ -4,6 +4,8 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/gevorgalaverdyan/hotels-service/db"
+	"github.com/gevorgalaverdyan/hotels-service/routes"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 )
@@ -21,11 +23,16 @@ func init() {
 }
 
 func main() {
+	db := db.Connect()
+
 	r := gin.Default()
 	log.Info("Server Started")
 
 	r.GET("/", func(ctx *gin.Context) {
 		ctx.JSON(http.StatusOK, gin.H{"status": "OK"})
 	})
+
+	routes.RegisterRoutes(r, db)
+
 	r.Run(":5555")
 }
