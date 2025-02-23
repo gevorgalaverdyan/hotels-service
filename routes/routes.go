@@ -6,6 +6,13 @@ import (
 )
 
 func RegisterRoutes(r *gin.Engine, db *mongo.Collection) {
-	r.GET("/hotels") // returns all hotels
-	r.POST("/hotel") //filters
+	// returns all hotels
+	r.GET("/hotels", func(ctx *gin.Context) {
+		GetAll(ctx, db)
+	})
+
+	//filters
+	r.POST("/hotel", func(ctx *gin.Context) {
+		GetByFilter(ctx, db)
+	})
 }
