@@ -29,7 +29,7 @@ func init() {
 }
 
 func main() {
-	file, err := os.ReadFile("./hotels.json")
+	file, err := os.ReadFile("./crawler/hotels.json")
 	if err != nil {
 		log.WithError(err).Fatal("Error reading JSON file")
 	}
