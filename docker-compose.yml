@@ -1,4 +1,16 @@
 services:
+  app:
+    build: .
+    depends_on:
+      - mongodb
+    environment:
+      - MONGO_URI=${MONGO_URI}
+    env_file:
+      - .env
+    ports:
+      - "5555:5555" 
+    restart: always
+
   mongodb:
     image: mongo:6-jammy
     ports:
@@ -11,6 +23,7 @@ services:
       - MONGO_INITDB_ROOT_PASSWORD=${MONGO_INITDB_ROOT_PASSWORD}
     env_file:
       - .env
+    restart: always
 
 volumes:
   dbdata6:

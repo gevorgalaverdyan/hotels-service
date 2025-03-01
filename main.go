@@ -7,6 +7,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/didip/tollbooth/v7"
+	"github.com/didip/tollbooth/v7/limiter"
 	"github.com/gevorgalaverdyan/hotels-service/db"
 	"github.com/gevorgalaverdyan/hotels-service/models"
 	"github.com/gevorgalaverdyan/hotels-service/routes"
@@ -26,6 +28,37 @@ func init() {
 
 	// Only log the warning severity or above.
 	//log.SetLevel(log.WarnLevel)
+}
+
+func RateLimitMiddleware(lmt *limiter.Limiter) gin.HandlerFunc {
+	return func(c *gin.Context) {
+		// Get the client's IP
+		clientIP := c.ClientIP()
+
+		// Check rate limit
+		httpError := tollbooth.LimitByRequest(lmt, c.Writer, c.Request)
+		if httpError != nil {
+			log.WithFields(log.Fields{
+				"ip":         clientIP,
+				"endpoint":   c.Request.URL.Path,
+				"method":     c.Request.Method,
+				"user-agent": c.Request.UserAgent(),
+			}).Warn("Rate limit exceeded")
+
+			c.AbortWithStatusJSON(httpError.StatusCode, gin.H{"error": httpError.Message})
+			return
+		}
+
+		// Log the request
+		log.WithFields(log.Fields{
+			"ip":         clientIP,
+			"endpoint":   c.Request.URL.Path,
+			"method":     c.Request.Method,
+			"user-agent": c.Request.UserAgent(),
+		}).Info("Incoming request")
+
+		c.Next()
+	}
 }
 
 func main() {
@@ -51,6 +84,12 @@ func main() {
 
 	r := gin.Default()
 	log.Info("Server Started")
+
+	lmt := tollbooth.NewLimiter(10, &limiter.ExpirableOptions{DefaultExpirationTTL: time.Minute})
+	lmt.SetMessage("Too many requests. Please try again later.")
+
+	// Apply rate limiting middleware with logging
+	r.Use(RateLimitMiddleware(lmt))
 
 	r.GET("/", func(ctx *gin.Context) {
 		ctx.JSON(http.StatusOK, gin.H{"status": "OK"})

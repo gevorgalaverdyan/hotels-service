@@ -1,3 +1,6 @@
+APP_NAME=app
+BUILD_DIR=./bin
+
 fmt:
 	gofmt -w .
 
@@ -5,4 +8,5 @@ dev:
 	go run main.go
 
 build:
-	go build -o bin/ ./...
+	mkdir -p $(BUILD_DIR)
+	go build -v -o $(BUILD_DIR)/$(APP_NAME) .
