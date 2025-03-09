@@ -1,3 +1,3 @@
 curl -X POST http://localhost:5555/hotel \
      -H "Content-Type: application/json" \
-     -d '[{"filter": "avada,ked,50.4975; -103.5672"}]'
+     -d '[{"filter": "Mayerthorpe,Alberta,53.95015;-115.13547"},{"filter": "Taber,Alberta,49.78703;-112.14603"}]'
