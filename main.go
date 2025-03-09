@@ -126,6 +126,7 @@ func insertHotels(collection *mongo.Collection, hotels []models.Hotel) {
 			"image":       hotel.Image,
 			"coordinates": hotel.Coordinates,
 			"website":     hotel.Website,
+			"address":     hotel.Address,
 		})
 	}
 

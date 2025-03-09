@@ -6,7 +6,8 @@
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Banff_Spring_Hotel_Alberta_Kim_Payant_02.jpg/250px-Banff_Spring_Hotel_Alberta_Kim_Payant_02.jpg",
         "coordinates": "51.16444; -115.56194",
-        "website": "https://www.banff-springs-hotel.com/"
+        "website": "https://www.banff-springs-hotel.com/",
+        "address": "405 Spray Avenue, Alberta, Canada"
     },
     {
         "name": "Chateau Lacombe Hotel",
@@ -15,7 +16,8 @@
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Chateau_Lacombe_Logo.jpg",
         "coordinates": "53.5390889; -113.4944139",
-        "website": "http://www.chateaulacombe.com"
+        "website": "http://www.chateaulacombe.com",
+        "address": "10111 Bellamy Hill NW, Edmonton, Alberta, Canada"
     },
     {
         "name": "Chateau Lake Louise",
@@ -24,7 +26,8 @@
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Late_in_the_Evening_at_the_Chateau_%2850005960142%29.jpg/250px-Late_in_the_Evening_at_the_Chateau_%2850005960142%29.jpg",
         "coordinates": "51.41778; -116.21722",
-        "website": "https://www.chateau-lake-louise.com/"
+        "website": "https://www.chateau-lake-louise.com/",
+        "address": "111 Lake Louise Drive, Alberta, Canada"
     },
     {
         "name": "Coast Edmonton House",
@@ -32,7 +35,8 @@
         "city": "Edmonton",
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Edmonton_House.JPG/200px-Edmonton_House.JPG",
-        "coordinates": "53.53833; -113.49500"
+        "coordinates": "53.53833; -113.49500",
+        "address": "10205 100 Avenue NW, Edmonton, Alberta, Canada"
     },
     {
         "name": "Fairmont Palliser Hotel",
@@ -48,7 +52,8 @@
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hotel-Macdonald-Edmonton-Alberta-1A.jpg/250px-Hotel-Macdonald-Edmonton-Alberta-1A.jpg",
         "coordinates": "53.54028; -113.48917",
-        "website": "https://www.fairmont.com/macdonald-edmonton/"
+        "website": "https://www.fairmont.com/macdonald-edmonton/",
+        "address": "10065 100 Street NW, Edmonton, Alberta, Canada"
     },
     {
         "name": "Jasper Park Lodge",
@@ -57,7 +62,8 @@
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jasper_Park_Lodge.jpg/250px-Jasper_Park_Lodge.jpg",
         "coordinates": "52.88611; -118.05694",
-        "website": "http://fairmont.com/jasper"
+        "website": "http://fairmont.com/jasper",
+        "address": "1 Old Lodge Road, Alberta, Canada"
     },
     {
         "name": "Prince of Wales Hotel",
@@ -66,7 +72,8 @@
         "province": "Alberta",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Prince_of_Wales_Hotel.jpg/250px-The_Prince_of_Wales_Hotel.jpg",
         "coordinates": "49.05889; -113.90361",
-        "website": "https://www.glacierparkcollection.com/lodging/prince-of-wales-hotel/"
+        "website": "https://www.glacierparkcollection.com/lodging/prince-of-wales-hotel/",
+        "address": "Linnet Lake Trail, Alberta, Canada"
     },
     {
         "name": "The Rimrock Resort Hotel",
@@ -80,7 +87,8 @@
         "city": "Vancouver",
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Empire_Hotel_Landmark.jpg/280px-Empire_Hotel_Landmark.jpg",
-        "coordinates": "49.28806; -123.13083"
+        "coordinates": "49.28806; -123.13083",
+        "address": "1438 Robson Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "The Empress",
@@ -89,7 +97,8 @@
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fairmont_Empress%2C_Victoria%2C_British_Columbia%2C_Canada_08.jpg/250px-Fairmont_Empress%2C_Victoria%2C_British_Columbia%2C_Canada_08.jpg",
         "coordinates": "48.42185; -123.36797",
-        "website": "https://www.fairmont.com/empress-victoria/"
+        "website": "https://www.fairmont.com/empress-victoria/",
+        "address": "721 Government Street, Victoria, British Columbia, Canada"
     },
     {
         "name": "Fairmont Pacific Rim",
@@ -97,7 +106,8 @@
         "city": "Vancouver",
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fairmont_Pacific_Rim_2015.jpg/250px-Fairmont_Pacific_Rim_2015.jpg",
-        "coordinates": "49.28806; -123.11639"
+        "coordinates": "49.28806; -123.11639",
+        "address": "1001 West Cordova Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "Hotel Europe",
@@ -105,7 +115,8 @@
         "city": "Vancouver",
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hoteleurope32.jpg/250px-Hoteleurope32.jpg",
-        "coordinates": "49.2833972; -123.1036472"
+        "coordinates": "49.2833972; -123.1036472",
+        "address": "41 Powell Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "Hotel Georgia",
@@ -114,7 +125,8 @@
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rosewood_Hotel_Georgia_2018.jpg/250px-Rosewood_Hotel_Georgia_2018.jpg",
         "coordinates": "49.2834389; -123.1189111",
-        "website": "https://www.rosewoodhotels.com/en/hotel-georgia-vancouver"
+        "website": "https://www.rosewoodhotels.com/en/hotel-georgia-vancouver",
+        "address": "801 West Georgia Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "Hotel Vancouver",
@@ -123,7 +135,8 @@
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hotel_vanc_2007.jpg/250px-Hotel_vanc_2007.jpg",
         "coordinates": "49.283839; -123.120959",
-        "website": "https://www.fairmont.com/hotel-vancouver/"
+        "website": "https://www.fairmont.com/hotel-vancouver/",
+        "address": "West Georgia Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "Hyatt Regency Vancouver",
@@ -132,7 +145,8 @@
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hyatt_Regency_Vancouver_2015.jpg/280px-Hyatt_Regency_Vancouver_2015.jpg",
         "coordinates": "49.28500; -123.12056",
-        "website": "https://vancouver.hyatt.com/"
+        "website": "https://vancouver.hyatt.com/",
+        "address": "655 Burrard Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "The Listel Hotel",
@@ -147,7 +161,8 @@
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Living_Shangri-La_from_One_Wall_Centre.jpg/300px-Living_Shangri-La_from_One_Wall_Centre.jpg",
         "coordinates": "49.28583; -123.12361",
-        "website": "https://www.heidelbergcement.com/en/living-shangri-la"
+        "website": "https://www.heidelbergcement.com/en/living-shangri-la",
+        "address": "1228 West Georgia Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "The Melville",
@@ -155,7 +170,8 @@
         "city": "Vancouver",
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Melville_residential_tower.jpg/200px-Melville_residential_tower.jpg",
-        "coordinates": "49.2879; -123.1236"
+        "coordinates": "49.2879; -123.1236",
+        "address": "1189 Melville Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "Sheraton Wall Centre",
@@ -164,7 +180,8 @@
         "province": "British Columbia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/One_Wall_Centre.jpg/250px-One_Wall_Centre.jpg",
         "coordinates": "49.28046; -123.1270",
-        "website": "https://www.onewallcentre.ca/"
+        "website": "https://www.onewallcentre.ca/",
+        "address": "1015 Burrard Street, Vancouver, British Columbia, Canada"
     },
     {
         "name": "Sylvia Hotel",
@@ -179,7 +196,8 @@
         "province": "Manitoba",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-0519-FortGarryHotel.jpg/250px-2009-0519-FortGarryHotel.jpg",
         "coordinates": "49.88778; -97.13667",
-        "website": "http://fortgarryhotel.com"
+        "website": "http://fortgarryhotel.com",
+        "address": "Fort Street, Winnipeg, Manitoba, Canada"
     },
     {
         "name": "The Algonquin",
@@ -188,7 +206,8 @@
         "province": "New Brunswick",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Algonquin_in_St_Andrews.jpg/250px-The_Algonquin_in_St_Andrews.jpg",
         "coordinates": "45.08028; -67.05472",
-        "website": "https://www.algonquinresort.com/"
+        "website": "https://www.algonquinresort.com/",
+        "address": "184 Adolphus Street, Town of Saint Andrews, New Brunswick / Nouveau-Brunswick, Canada"
     },
     {
         "name": "Hotel Newfoundland",
@@ -197,7 +216,8 @@
         "province": "Newfoundland and Labrador",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Newfoundlandhotel.jpg/250px-Newfoundlandhotel.jpg",
         "coordinates": "47.5713611; -52.7004833",
-        "website": "https://www.marriott.com/hotels/travel/yytsi-sheraton-hotel-newfoundland"
+        "website": "https://www.marriott.com/hotels/travel/yytsi-sheraton-hotel-newfoundland",
+        "address": "115 Cavendish Square, St. John's, Newfoundland and Labrador, Canada"
     },
     {
         "name": "Explorer Hotel",
@@ -206,7 +226,8 @@
         "province": "Northwest Territories",
         "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Explorer_Hotel_logo.png",
         "coordinates": "62.45738; -114.37240",
-        "website": "http://www.explorerhotel.ca"
+        "website": "http://www.explorerhotel.ca",
+        "address": "4825 49th Avenue, Yellowknife, Northwest Territories, Canada"
     },
     {
         "name": "The Gold Range",
@@ -220,7 +241,8 @@
         "city": "Digby",
         "province": "Nova Scotia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Digby_Pines_2010.JPG/250px-Digby_Pines_2010.JPG",
-        "coordinates": "44.634278; -65.760611"
+        "coordinates": "44.634278; -65.760611",
+        "address": ", Nova Scotia, Canada"
     },
     {
         "name": "Lord Nelson Hotel",
@@ -229,7 +251,8 @@
         "province": "Nova Scotia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lord_Nelson_Hotel.JPG/250px-Lord_Nelson_Hotel.JPG",
         "coordinates": "44.6427000; -63.5796000",
-        "website": "https://lordnelsonhotel.ca/"
+        "website": "https://lordnelsonhotel.ca/",
+        "address": "1515 South Park Street, Halifax, Nova Scotia, Canada"
     },
     {
         "name": "The Westin Nova Scotian",
@@ -252,7 +275,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fairmont_Chateau_Laurier_%2836191173260%29_%28cropped%29.jpg/250px-Fairmont_Chateau_Laurier_%2836191173260%29_%28cropped%29.jpg",
         "coordinates": "45.4255667; -75.6951083",
-        "website": "https://www.fairmont.com/laurier-ottawa/"
+        "website": "https://www.fairmont.com/laurier-ottawa/",
+        "address": "1 Rideau Street, Ottawa, Ontario, Canada"
     },
     {
         "name": "Chelsea Hotel",
@@ -261,7 +285,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Delta_Chelsea.jpg/250px-Delta_Chelsea.jpg",
         "coordinates": "43.6585; -79.38315",
-        "website": "http://chelseatoronto.com"
+        "website": "http://chelseatoronto.com",
+        "address": "33 Gerrard Street West, Toronto, Ontario, Canada"
     },
     {
         "name": "Drake Hotel",
@@ -269,7 +294,8 @@
         "city": "Toronto",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Drake_Hotel.jpg/250px-Drake_Hotel.jpg",
-        "coordinates": "43.643197; -79.424661"
+        "coordinates": "43.643197; -79.424661",
+        "address": "1150 Queen Street West, Toronto, Ontario, Canada"
     },
     {
         "name": "Duke of York Inn",
@@ -284,7 +310,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Toronto_-_ON_-_Royal_York_Hotel.jpg/250px-Toronto_-_ON_-_Royal_York_Hotel.jpg",
         "coordinates": "43.646133; -79.381561",
-        "website": "http://www.fairmont.com/royalyork"
+        "website": "http://www.fairmont.com/royalyork",
+        "address": "100 Front Street West, Toronto, Ontario, Canada"
     },
     {
         "name": "Ford Hotel",
@@ -298,7 +325,8 @@
         "city": "Toronto",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Four_Seasons_under_construction_February_2012.jpg/250px-Four_Seasons_under_construction_February_2012.jpg",
-        "coordinates": "43.67194; -79.38889"
+        "coordinates": "43.67194; -79.38889",
+        "address": "34 Yorkville Avenue, Toronto, Ontario, Canada"
     },
     {
         "name": "Gladstone Hotel",
@@ -307,7 +335,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gladstone_Hotel.jpg/250px-Gladstone_Hotel.jpg",
         "coordinates": "43.642683; -79.427",
-        "website": "http://gladstonehouse.ca"
+        "website": "http://gladstonehouse.ca",
+        "address": "1214 Queen Street West, Toronto, Ontario, Canada"
     },
     {
         "name": "Guild Inn",
@@ -335,7 +364,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MetroTorontoConventionCentre7.JPG/250px-MetroTorontoConventionCentre7.JPG",
         "coordinates": "43.64417; -79.38667",
-        "website": "https://www.torontocentre.intercontinental.com/"
+        "website": "https://www.torontocentre.intercontinental.com/",
+        "address": "PATH, Toronto, Ontario, Canada"
     },
     {
         "name": "John Finch's Hotel",
@@ -350,7 +380,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/OMNI_King_Edward_logo.jpg/250px-OMNI_King_Edward_logo.jpg",
         "coordinates": "43.6494; -79.3766",
-        "website": "https://www.omnihotels.com/hotels/toronto-king-edward"
+        "website": "https://www.omnihotels.com/hotels/toronto-king-edward",
+        "address": "37 King Street East, Toronto, Ontario, Canada"
     },
     {
         "name": "Lord Elgin Hotel",
@@ -358,7 +389,8 @@
         "city": "Ottawa",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lord-elgin-hotel-night.jpg/250px-Lord-elgin-hotel-night.jpg",
-        "coordinates": "45.42133; -75.69371"
+        "coordinates": "45.42133; -75.69371",
+        "address": "100 Elgin Street, Ottawa, Ontario, Canada"
     },
     {
         "name": "Lord Simcoe Hotel",
@@ -412,7 +444,8 @@
         "city": "Toronto",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Old_Mill_Inn.JPG/250px-Old_Mill_Inn.JPG",
-        "coordinates": "43.65083; -79.49333"
+        "coordinates": "43.65083; -79.49333",
+        "address": "21 Old Mill Road, Toronto, Ontario, Canada"
     },
     {
         "name": "Ottawa Marriott Hotel",
@@ -421,7 +454,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ottawa_Marriot_2.JPG/250px-Ottawa_Marriot_2.JPG",
         "coordinates": "45.41972; -75.70341",
-        "website": "https://www.marriott.com/en-us/hotels/yowmc-ottawa-marriott-hotel/overview/"
+        "website": "https://www.marriott.com/en-us/hotels/yowmc-ottawa-marriott-hotel/overview/",
+        "address": "100 Kent Street, Ottawa, Ontario, Canada"
     },
     {
         "name": "Park Hyatt Toronto",
@@ -430,7 +464,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Park_Plaza_Hotel.JPG/250px-Park_Plaza_Hotel.JPG",
         "coordinates": "43.6689583; -79.394639",
-        "website": "https://www.hyatt.com/en-US/hotel/canada/park-hyatt-toronto/torph"
+        "website": "https://www.hyatt.com/en-US/hotel/canada/park-hyatt-toronto/torph",
+        "address": "4 Avenue Road, Toronto, Ontario, Canada"
     },
     {
         "name": "Prince Arthur Hotel",
@@ -438,7 +473,8 @@
         "city": "Thunder Bay",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Prince_Arthur_Hotel_and_Suites_Thunder_Bay.jpg/250px-Prince_Arthur_Hotel_and_Suites_Thunder_Bay.jpg",
-        "coordinates": "48.43516; -89.2187"
+        "coordinates": "48.43516; -89.2187",
+        "address": "9 Cumberland Street North, Thunder Bay, Ontario, Canada"
     },
     {
         "name": "Radisson Toronto East Hotel",
@@ -465,7 +501,8 @@
         "city": "Ottawa",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Russell_House_ca1893.jpg/250px-Russell_House_ca1893.jpg",
-        "coordinates": "45.4235; -75.6953"
+        "coordinates": "45.4235; -75.6953",
+        "address": "40 Elgin Street, Ottawa, Ontario, Canada"
     },
     {
         "name": "Sheraton Centre Toronto Hotel",
@@ -473,7 +510,8 @@
         "city": "Toronto",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sheraton_Centre_Toronto_Hotel_2023.jpg/250px-Sheraton_Centre_Toronto_Hotel_2023.jpg",
-        "coordinates": "43.65111; -79.38417"
+        "coordinates": "43.65111; -79.38417",
+        "address": "123 Queen Street West, Toronto, Ontario, Canada"
     },
     {
         "name": "Sheraton on the Falls",
@@ -481,7 +519,8 @@
         "city": "Niagara Falls",
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maid_of_the_mist_on_board_04.07.2012_16-09-57.jpg/250px-Maid_of_the_mist_on_board_04.07.2012_16-09-57.jpg",
-        "coordinates": "43.0907; -79.0725"
+        "coordinates": "43.0907; -79.0725",
+        "address": "Niagara Recreation Trail, Niagara Falls, Ontario, Canada"
     },
     {
         "name": "Spadina Hotel",
@@ -495,7 +534,8 @@
         "city": "Toronto",
         "province": "Ontario",
         "image": "https:https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Union_Hotel_%28Toronto%29&revid=1276648789&groups=_77316b0051bfc5748ac0bc10541475dfdeb25ce3",
-        "coordinates": "43.6463; -79.3831"
+        "coordinates": "43.6463; -79.3831",
+        "address": "60 York Street, Toronto, Ontario, Canada"
     },
     {
         "name": "Westin Harbour Castle Hotel",
@@ -504,7 +544,8 @@
         "province": "Ontario",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WestinHarbourCastleHotel.jpg/250px-WestinHarbourCastleHotel.jpg",
         "coordinates": "43.640641; -79.375716",
-        "website": "https://www.marriott.com/hotels/travel/yyzwi-the-westin-harbour-castle-toronto/"
+        "website": "https://www.marriott.com/hotels/travel/yyzwi-the-westin-harbour-castle-toronto/",
+        "address": "Harbour Square Tunnel, Toronto, Ontario, Canada"
     },
     {
         "name": "Windsor Arms Hotel",
@@ -525,7 +566,8 @@
         "province": "Prince Edward Island",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rodd_Charlottetown_2012.jpg/250px-Rodd_Charlottetown_2012.jpg",
         "coordinates": "46.23472; -63.13083",
-        "website": "http://www.roddvacations.com/rodd-charlottetown"
+        "website": "http://www.roddvacations.com/rodd-charlottetown",
+        "address": "75 Kent Street, Charlottetown, Prince Edward Island, Canada"
     },
     {
         "name": "Auberge Le Saint-Gabriel",
@@ -546,7 +588,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Montreal_Downtown_Marriott_over_trees.jpg/250px-Montreal_Downtown_Marriott_over_trees.jpg",
         "coordinates": "45.4975; -73.5672",
-        "website": "https://www.marriott.com/en-us/hotels/yulcc-montreal-marriott-chateau-champlain/overview/"
+        "website": "https://www.marriott.com/en-us/hotels/yulcc-montreal-marriott-chateau-champlain/overview/",
+        "address": "1050 Rue de La Gauchetiere Ouest, Montreal, Quebec, Canada"
     },
     {
         "name": "Chateau Frontenac",
@@ -555,7 +598,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/250px-Ch%C3%A2teau_Frontenac_02.jpg",
         "coordinates": "46.81194; -71.20500",
-        "website": "https://www.fairmont.com/frontenac-quebec/"
+        "website": "https://www.fairmont.com/frontenac-quebec/",
+        "address": "1 Rue des Carrieres, Quebec, Quebec, Canada"
     },
     {
         "name": "Chateau Montebello",
@@ -563,7 +607,8 @@
         "city": "Montebello",
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Montebello_Castle_28Sep2014.JPG/250px-Montebello_Castle_28Sep2014.JPG",
-        "coordinates": "45.645; -74.95"
+        "coordinates": "45.645; -74.95",
+        "address": "Tour du Chateau, Quebec, Canada"
     },
     {
         "name": "Clarendon Hotel",
@@ -572,7 +617,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ClarendonHotel.jpg/250px-ClarendonHotel.jpg",
         "coordinates": "46.813; -71.2076",
-        "website": "https://hotelclarendon.com/"
+        "website": "https://hotelclarendon.com/",
+        "address": "Rue Sainte-Anne, Quebec, Quebec, Canada"
     },
     {
         "name": "Hovey Manor",
@@ -586,7 +632,8 @@
         "city": "Quebec City",
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H%C3%B4tel_de_Glace_%2812665786284%29.jpg/250px-H%C3%B4tel_de_Glace_%2812665786284%29.jpg",
-        "coordinates": "46.943966; -71.475037"
+        "coordinates": "46.943966; -71.475037",
+        "address": "2280 Boulevard Valcartier, Quebec, Canada"
     },
     {
         "name": "Laurentian Hotel",
@@ -601,7 +648,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CentreSheraton.JPG/250px-CentreSheraton.JPG",
         "coordinates": "45.49778; -73.57139",
-        "website": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/"
+        "website": "https://www.marriott.com/en-us/hotels/yulsi-le-centre-sheraton-montreal-hotel/overview/",
+        "address": "1201 Boulevard Rene-Levesque Ouest, Montreal, Quebec, Canada"
     },
     {
         "name": "Les Cours Mont-Royal",
@@ -610,7 +658,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cours_Mont-Royal_29.JPG/250px-Cours_Mont-Royal_29.JPG",
         "coordinates": "45.50083; -73.57361",
-        "website": "http://www.lcmr.ca"
+        "website": "http://www.lcmr.ca",
+        "address": "1700 Rue Metcalfe, Montreal, Quebec, Canada"
     },
     {
         "name": "Manoir Richelieu",
@@ -630,7 +679,8 @@
         "city": "Montreal",
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gare_Viger_16.jpg/250px-Gare_Viger_16.jpg",
-        "coordinates": "45.512478; -73.553244"
+        "coordinates": "45.512478; -73.553244",
+        "address": "Rue Saint-Antoine Est, Montreal, Quebec, Canada"
     },
     {
         "name": "Queen Elizabeth Hotel",
@@ -639,7 +689,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Montreal%2C_August_2017_-_097.jpg/250px-Montreal%2C_August_2017_-_097.jpg",
         "coordinates": "45.5006; -73.5678",
-        "website": "https://www.fairmont.com/queen-elizabeth-montreal/"
+        "website": "https://www.fairmont.com/queen-elizabeth-montreal/",
+        "address": "900 Boulevard Rene-Levesque Ouest, Montreal, Quebec, Canada"
     },
     {
         "name": "Ritz-Carlton Montreal",
@@ -648,7 +699,8 @@
         "province": "Quebec",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Ritz-Carlton_Montr%C3%A9al_Logo.svg/250px-Ritz-Carlton_Montr%C3%A9al_Logo.svg.png",
         "coordinates": "45.50000; -73.578000",
-        "website": "http://www.ritzmontreal.com/"
+        "website": "http://www.ritzmontreal.com/",
+        "address": "Rue Sherbrooke Ouest, Montreal, Quebec, Canada"
     },
     {
         "name": "Windsor Hotel",
@@ -663,7 +715,8 @@
         "city": "Regina",
         "province": "Saskatchewan",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Chateau_Qu%27Appelle.jpg/250px-Chateau_Qu%27Appelle.jpg",
-        "coordinates": "50.4399333; -104.6169667"
+        "coordinates": "50.4399333; -104.6169667",
+        "address": "2445 Albert Street, Regina, Saskatchewan, Canada"
     },
     {
         "name": "Delta Bessborough",
@@ -672,7 +725,8 @@
         "province": "Saskatchewan",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Saskatoon-_bessborough.jpg/250px-Saskatoon-_bessborough.jpg",
         "coordinates": "52.12639; -106.65917",
-        "website": "https://www.marriott.com/hotels/travel/yxedb-delta-hotels-bessborough/"
+        "website": "https://www.marriott.com/hotels/travel/yxedb-delta-hotels-bessborough/",
+        "address": "Spadina Crescent East, Saskatoon, Saskatchewan, Canada"
     },
     {
         "name": "Hotel Saskatchewan",
@@ -680,7 +734,8 @@
         "city": "Regina",
         "province": "Saskatchewan",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hotel-Saskatchewan.jpg/250px-Hotel-Saskatchewan.jpg",
-        "coordinates": "50.44667; -104.61139"
+        "coordinates": "50.44667; -104.61139",
+        "address": "2125 Victoria Avenue, Regina, Saskatchewan, Canada"
     },
     {
         "name": "Hotel Senator",
@@ -689,7 +744,8 @@
         "province": "Saskatchewan",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Senator_Hotel.jpg/250px-Senator_Hotel.jpg",
         "coordinates": "52.12667; -106.66333",
-        "website": "http://www.hotelsenator.ca/"
+        "website": "http://www.hotelsenator.ca/",
+        "address": "243 21st Street East, Saskatoon, Saskatchewan, Canada"
     },
     {
         "name": "Radisson Hotel Saskatoon",
@@ -697,7 +753,8 @@
         "city": "Saskatoon",
         "province": "Saskatchewan",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Saskatoon_Skyscrapers.jpg/250px-Saskatoon_Skyscrapers.jpg",
-        "coordinates": "52.1247; -106.6616"
+        "coordinates": "52.1247; -106.6616",
+        "address": "20th Street East, Saskatoon, Saskatchewan, Canada"
     },
     {
         "name": "Temple Gardens Mineral Spa Resort",
@@ -706,6 +763,7 @@
         "province": "Saskatchewan",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Temple_Gardens_Hotel_%26_Spa_logo.png/250px-Temple_Gardens_Hotel_%26_Spa_logo.png",
         "coordinates": "50.3928; -105.5335",
-        "website": "https://www.templegardenshotel.com/"
+        "website": "https://www.templegardenshotel.com/",
+        "address": "Langdon Crescent, Moose Jaw, Saskatchewan, Canada"
     }
 ]

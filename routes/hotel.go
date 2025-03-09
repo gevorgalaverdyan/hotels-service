@@ -23,18 +23,21 @@ func GetAll(ctx *gin.Context, db *mongo.Collection) {
 }
 
 func GetByFilter(ctx *gin.Context, db *mongo.Collection) {
-	var filter Filter
+    var filters []Filter
+    if err := ctx.ShouldBindJSON(&filters); err != nil {
+        ctx.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+        return
+    }
 
-	if err := ctx.ShouldBindJSON(&filter); err != nil {
-		ctx.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
-		return
-	}
+    var results []models.Hotel
+    for _, fl := range filters {
+        hotel, err := models.GetOneByFilter(fl.Filter, db)
+        if err != nil {
+            ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
+            return
+        }
+        results = append(results, hotel)
+    }
 
-	hotels, err := models.GetByFilter(filter.Filter, db)
-	if err != nil {
-		ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
-		return
-	}
-
-	ctx.JSON(http.StatusOK, hotels)
+    ctx.JSON(http.StatusOK, results)
 }
